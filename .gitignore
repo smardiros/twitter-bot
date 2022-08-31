@@ -1,2 +1,4 @@
-twitter_keys.json
+*.json
+*.js
+*.pickle
 .venv
